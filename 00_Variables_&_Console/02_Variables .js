@@ -27,6 +27,7 @@ accountCity = "New York"
 // Printing accountId to console
 console.log(accountId);
 
+
 /*
 Prefer not to use var
 because of issue in block scope and functional scope
@@ -35,6 +36,8 @@ because of issue in block scope and functional scope
 // Using console.table to display all variables in a neat table format
 // This will show both variable names and their values
 console.table([accountId, accountEmail, accountPassword, accountCity, accountState])
+
+
 
 // Best Practices:
 // 1. Use 'const' for variables that should not change.

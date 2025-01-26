@@ -43,6 +43,7 @@
 [14. This And Arrow Functions in JS](./14_This_And_Arrow_Functions.js)<br/>
 [15. IIFE in JS](./15_IIFE.js)<br/>
 [16. Control Flow](./16_Control_Flow.js)<br/>
+[17. Console in JavaScript](./17_Console.js)<br/>
 
 
 
