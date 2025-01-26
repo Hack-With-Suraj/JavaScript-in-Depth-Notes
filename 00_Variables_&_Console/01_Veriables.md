@@ -23,4 +23,4 @@ Think of variables as containers that store data. `In JavaScript, you use variab
     - `const` is used for variables that cannot be reassigned.
     - `var` is used for variables that can be reassigned.
 
-See [02_Variables.js](./02_Variables%20.js) for more details and examples with code.
+See [Variables.js](./Variables.js) for more details and examples with code.

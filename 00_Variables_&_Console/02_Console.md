@@ -36,4 +36,4 @@ const name = 'John';
 const age = 30;
 console.log('Name:', name, 'Age:', age);
 ```
-For Code see [04_Console.js](./04_Console.js) file.
+For Code see [Console.js](./Console.js) file.
